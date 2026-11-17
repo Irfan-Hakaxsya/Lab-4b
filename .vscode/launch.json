@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Debug Q1.html",
+            "file": "${workspaceFolder}/Q1.html"
+        }
+    ]
+}
